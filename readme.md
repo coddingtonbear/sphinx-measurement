@@ -1,7 +1,5 @@
 # Sphinx-Measurement
 
-**THIS IS A WORK IN PROGRESS; EVERYTHING BELOW IS SUBJECT TO CHANGE**
-
 Easily mark-up and convert between various measures.
 
 ## Installation
